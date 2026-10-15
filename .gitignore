@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.fifo
+*.sock
+.env
+.env.*
+# Тестовые отчёты benchmark_results.csv сохраняем в GitHub намеренно.
